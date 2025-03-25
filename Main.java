@@ -8,4 +8,8 @@ public class Main {
         System.out.println(num);
         System.out.println("el numero fue");
     }
+
+    public static void isacfunct(int num){
+        System.out.println(num);
+    }
 }
