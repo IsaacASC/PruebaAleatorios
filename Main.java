@@ -7,4 +7,8 @@ public class Main {
     public static void hola(int num){
         System.out.println(num);
     }
+
+    public static void isacfunct(int num){
+        System.out.println(num);
+    }
 }
