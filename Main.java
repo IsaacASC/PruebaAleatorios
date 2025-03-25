@@ -6,5 +6,6 @@ public class Main {
 
     public static void hola(int num){
         System.out.println(num);
+        System.out.println("el numero fue");
     }
 }
