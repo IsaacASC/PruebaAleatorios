@@ -1,3 +1,6 @@
+// Imports
+import java.util.Scanner;
+
 public class Main {
     // Hola
     static Scanner scan = new Scanner (System.in); // El scanner estatico
